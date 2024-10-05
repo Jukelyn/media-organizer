@@ -1,2 +1,2 @@
-# template
-Short description
+# Media Organizer
+
